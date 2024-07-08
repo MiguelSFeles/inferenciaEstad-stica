@@ -21,8 +21,6 @@ quantile(A, probs=c(0.25, 0.60, 0.95)) #Si quiero ver varios percentiles
 
 #     Diagrama de cajas
 boxplot(Z, xlab = "persona", ylab= "digitación", ylim = c(0, 100))
-
-
 #     Medidas de Posición
 
 
